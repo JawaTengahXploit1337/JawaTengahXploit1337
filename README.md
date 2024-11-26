@@ -23,3 +23,11 @@ Feel free to reach out if you want to collaborate on projects, discuss technolog
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-%23232D25?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6283847921480)
 [![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/rozhakid)
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@rozhak_official)
+
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/JohnCoene)
+
+[![BuyMeCoffee][buymecoffeebadge]][buymecoffee]
+
+[buymecoffee]: https://saweria.co/AsmaraHancur
+[buymecoffeebadge]: https://img.shields.io/badge/buy%20me%20a%20coffe-donate-yellow.svg?style=for-the-badge
+[commits-shield]: https://img.shields.io/github/commit-activity/y/audiconnect/audi_connect_ha?style=for-the-badge
