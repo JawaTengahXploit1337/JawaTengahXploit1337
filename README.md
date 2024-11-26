@@ -1,4 +1,4 @@
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqOuBI0T2Y5ISiig4ve-xknm8n5JYdHH17FveZQ3JFVlefNfCeGPLTf6X06bmSEKPjTOHLH5orGHavMDkkY_lri1n8iRrXlo1smsCbhxcmw6VlcbvD3fJC0nTAekEQcViNH6s9LtKvzUM/s1600/35k7q7n.gif)
+![](x.png)
 
 # Hey There! I'm [Java](https://github.com/JawaTengahXploit1337) 👋
 
@@ -33,3 +33,5 @@ Feel free to reach out if you want to collaborate on projects, discuss technolog
 [buymecoffee]: https://saweria.co/AsmaraHancur
 [buymecoffeebadge]: https://img.shields.io/badge/buy%20me%20a%20coffe-donate-yellow.svg?style=for-the-badge
 [commits-shield]: https://img.shields.io/github/commit-activity/y/audiconnect/audi_connect_ha?style=for-the-badge
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqOuBI0T2Y5ISiig4ve-xknm8n5JYdHH17FveZQ3JFVlefNfCeGPLTf6X06bmSEKPjTOHLH5orGHavMDkkY_lri1n8iRrXlo1smsCbhxcmw6VlcbvD3fJC0nTAekEQcViNH6s9LtKvzUM/s1600/35k7q7n.gif)
