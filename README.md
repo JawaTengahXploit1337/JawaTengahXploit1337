@@ -1,3 +1,5 @@
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqOuBI0T2Y5ISiig4ve-xknm8n5JYdHH17FveZQ3JFVlefNfCeGPLTf6X06bmSEKPjTOHLH5orGHavMDkkY_lri1n8iRrXlo1smsCbhxcmw6VlcbvD3fJC0nTAekEQcViNH6s9LtKvzUM/s1600/35k7q7n.gif)
+
 # Hey There! I'm [Java](https://github.com/JawaTengahXploit1337) 👋
 
 I'm a passionate developer with expertise in various programming languages and technologies. I enjoy creating innovative solutions and sharing my knowledge with the community. Welcome to my GitHub profile!
