@@ -17,6 +17,26 @@ I'm a passionate developer with expertise in various programming languages and t
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JawaTengahXploit1337)
 
+<div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=XiaomingX&show_icons=true&theme=gruvbox&count_private=true" alt="xiaomingx's GitHub stats" style="max-width: 400px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaomingX&theme=xcode&hide_border=true" />
+  </div>
+  <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
+
+  <div style="text-align: center;">
+    <h2>👋 About Me</h2>
+    <p>Hello, I am XiaomingX. I have a general understanding of cryptography, machine learning, compiler theory, and computer graphics.</p>
+    <p>👀 I am currently very interested in GPU programming, browser-side model optimization, and deployment.</p>
+    <p>🌱 I am currently engaged in front-end plugin development work.</p>
+    <p>💞️ Welcome to submit any PRs to my error-filled projects.</p>
+    <p>📫 You can contact me through X, or follow me on GitHub to get the latest updates on my work.</p>
+    <p>🌑 I code at midnight, please do not disturb me during this time.</p>
+  </div>
+
+  <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
+
+
 ## 🌐 Connect with Me
 
 Feel free to reach out if you want to collaborate on projects, discuss technology, or just chat!
