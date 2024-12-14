@@ -26,7 +26,7 @@ I'm a passionate developer with expertise in various programming languages and t
 
   <div style="text-align: center;">
     <h2>👋 About Me</h2>
-    <p>Hello, I am XiaomingX. I have a general understanding of cryptography, machine learning, compiler theory, and computer graphics.</p>
+    <p>Hello, I am JawaTengahXploit1337. I have a general understanding of cryptography, machine learning, compiler theory, and computer graphics.</p>
     <p>👀 I am currently very interested in GPU programming, browser-side model optimization, and deployment.</p>
     <p>🌱 I am currently engaged in front-end plugin development work.</p>
     <p>💞️ Welcome to submit any PRs to my error-filled projects.</p>
